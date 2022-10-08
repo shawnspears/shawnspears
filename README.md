@@ -1,5 +1,9 @@
-### Hi there 👋
-
+[![@shawnspears's Holopin board](https://holopin.io/api/user/board?user=shawnspears)](https://holopin.io/@shawnspears)
+### Hi there, I'm Shawn 👋
+I'm a recent CS grad from Portland State University
+- 🎃 I’m currently contributing to Hacktoberfest 2022
+- 🌱 I’m currently learning about Open Source through Microsoft Reactor
+- 📫 How to reach me: shwnspears@gmail.com
 <!--
 **shawnspears/shawnspears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
