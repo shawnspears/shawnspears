@@ -3,6 +3,7 @@
 I'm a recent CS grad from Portland State University
 - 🎃 I’m currently contributing to Hacktoberfest 2022
 - 🌱 I’m currently learning about Open Source through Microsoft Reactor
+- 🐦 1/#100DaysOfSwift
 - 📫 How to reach me: shwnspears@gmail.com
 <!--
 **shawnspears/shawnspears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
