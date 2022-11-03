@@ -3,7 +3,7 @@
 I'm a recent CS grad from Portland State University
 - 🎃 I’m currently contributing to Hacktoberfest 2022
 - 🌱 I’m currently learning about Open Source through Microsoft Reactor
-- 🐦 7/#100DaysOfSwift
+- 🐦 8/#100DaysOfSwift
 - 📫 How to reach me: shwnspears@gmail.com
 
 <!--
